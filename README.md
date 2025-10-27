@@ -35,6 +35,8 @@ This is yet another Eufy fork, this time based on work from [CodeFoodPixels](htt
 
 Please note: You may have to get a new version of the access key for your vacuum from time to time if Eufy change it. Worst case you have to Delete the integration and re add it to get the new key.
 
+Please note: when using an Eufy Clean product AND an Eufy Security product in your home, it may be necessary to have separate useraccounts (1 for the security products and 1 for the clean products).
+
 ## Debugging
 
 The integration includes debug logging statements that can provide valuable insights into component operations. These logs can be accessed through the Home Assistant System Log.
